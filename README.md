@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi. I am Maina Mwangi 👋
 
 <!--
 **MainaMwangiy/MainaMwangiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Software Engineer from Nairobi, Kenya. I am currently working at Stream4Tech. I mainly work with ReactJS & VueJS frameworks for FrontEnd development and JavScript & Python for BackEnd Development. I utilize the technologies to develop software systems and improve the existing ones. 
+
+🌱 I'm currently learning TypeScript & NextJS to improve my skills in JS frameworks nad Libraries. 
+
+👯 I’m looking to collaborate on projects that want to bring change to the world in a positive way. Projects that will make the lives of Earthians better 😄. 
+
+📫 You can reach me on LinkedIn, Mail and Twitter.
