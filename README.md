@@ -20,4 +20,6 @@ I am a Software Engineer from Nairobi, Kenya. I am currently working at Stream4T
 
 👯 I’m looking to collaborate on projects that want to bring change to the world in a positive way. Projects that will make the lives of Earthians better 😄. 
 
+🤔 I’m looking for open source projects or projects I can contribute to. I am open to any JS project that brings change. 
+
 📫 Reach me on LinkedIn, Mail and Twitter and lets talk about tech. 
